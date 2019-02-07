@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/hexschool_js_dungon/precache-manifest.8de6e1f11ab6efdf2fc93023ce20ad49.js"
+  "/hexschool_js_dungon/precache-manifest.090f3796dd39fd143f5524901ab961dd.js"
 );
 
 workbox.clientsClaim();

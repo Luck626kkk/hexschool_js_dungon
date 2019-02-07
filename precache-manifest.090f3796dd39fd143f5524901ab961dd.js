@@ -12,15 +12,15 @@ self.__precacheManifest = [
     "url": "/hexschool_js_dungon/static/js/main.008f4361.chunk.js"
   },
   {
-    "revision": "b4134f68b5f78f10fbfd",
-    "url": "/hexschool_js_dungon/static/js/1.b4134f68.chunk.js"
+    "revision": "c3b25c17b4fbd74dc533",
+    "url": "/hexschool_js_dungon/static/js/1.c3b25c17.chunk.js"
   },
   {
     "revision": "008f4361473bacb4d6c2",
     "url": "/hexschool_js_dungon/static/css/main.5a1cfcbb.chunk.css"
   },
   {
-    "revision": "0ed962e051194803767f5f5246a5403d",
+    "revision": "284e6abaf9ae19c8c3afbe649eac91b0",
     "url": "/hexschool_js_dungon/index.html"
   }
 ];
