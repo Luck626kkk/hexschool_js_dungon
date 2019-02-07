@@ -11,7 +11,7 @@ class App extends Component {
     return (
       <div className="container">
       {/* The corresponding component will show here if the current URL matches the path */}
-      <Route path="/" exact component={Home} />
+      <Route path={process.env.PUBLIC_URL + '/'} exact component={Home} />
 
       <Route path="/MultiplicationChart" component={MultiplicationChart} />
       {/* <Route path="/books2" component={Books2} /> */}
