@@ -1,16 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import { BrowserRouter, Switch } from 'react-router-dom';
+import { HashRouter, Switch } from 'react-router-dom';
 import './index.css';
 import App from './App';
+
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
-  <BrowserRouter basename={process.env.PUBLIC_URL}>
-      <Switch>
+  <HashRouter>
+      
         <App />
-      </Switch>
-    </BrowserRouter>,
+      
+  </HashRouter>,
     document.getElementById('root')
   );
 
